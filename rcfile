@@ -10,5 +10,5 @@
 # bits.
 #
 # By default this script does nothing.
-sh /root/mineconductor2/mineconductor.sh
+sh /root/minecon4sunstar/mineconductor.sh
 exit 0
